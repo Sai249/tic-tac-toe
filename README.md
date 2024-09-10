@@ -1,0 +1,2 @@
+# tic-tac-toe
+ Tic-tac-toe, also known as noughts and crosses, is a simple two-player game. Players take turns marking a 3x3 grid with either an “X” or an “O”. The goal is to be the first to get three of your marks in a row, either horizontally, vertically, or diagonally. If all nine squares are filled without either player achieving this, the game ends in a draw.  It’s a great game for teaching basic strategy and is often used as an educational tool for young children. Have you ever tried coding a tic-tac-toe game in Python? It could be a fun project!
